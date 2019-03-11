@@ -1,2 +1,2 @@
-# WorkFlows-of-Student-Role
-This repository will help you understand workflows of student role in the system
+# WorkFlows
+This repository will help you to understand workflows of the system
